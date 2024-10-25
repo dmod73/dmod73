@@ -28,38 +28,38 @@
 <table>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/300" alt="Portfolio project image" width="300" height="200">
+      <img src="assets/portfolio.png" alt="Portfolio project image" width="300" height="200">
     </td>
     <td>
       <h3>Portfolio</h3>
       <p>My personal portfolio where I showcase my projects and skills.</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JS, Bootstrap"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS, Bootstrap"></a><br>
       <a href="https:https://github.com/dmod73">View project</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/300" alt="Currency Converter image" width="300" height="200">
+      <img src="assets/Currencyconvimg.png" alt="Currency Converter image" width="300" height="200">
     </td>
     <td>
       <h3>Currency Converter</h3>
       <p>A currency converter that uses APIs to fetch exchange rates.</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, C#"></a> 
       <img src="https://img.shields.io/badge/API-blue?style=for-the-badge" alt="API Badge"><br>
       <a href="https://github.com/dmod73">View project</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/300" alt="Password Generator image" width="300" height="200">
+      <img src="assets/crudimg.png" alt="Password Generator image" width="300" height="200">
     </td>
     <td>
-      <h3>Password Generator</h3>
-      <p>A secure random password generator with business rules to ensure strong passwords.</p>
+      <h3>CRUD</h3>
+      <p>A general CRUD application created to practice CRUD concepts.</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a><br>
       <a href="https://github.com/dmod73">View project</a>
     </td>
   </tr>
