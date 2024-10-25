@@ -35,7 +35,7 @@
       <p>My personal portfolio where I showcase my projects and skills.</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS, Bootstrap"></a><br>
-      <a href="https:https://github.com/dmod73">View project</a>
+      <a href="https://github.com/dmod73/Portfolio-DeanDev">View project</a>
     </td>
   </tr>
   <tr>
