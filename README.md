@@ -66,6 +66,6 @@
 </table>
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dean-m-ortiz-díaz-b82035225/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-m-ortiz-díaz-b82035225/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortizdiazdeanm@gmail.com?subject=Contacto%20desde%20tu%20portafolio&body=Hola%20Dean,%0D%0A%0D%0AQuiero%20ponerme%20en%20contacto%20contigo.)
 
