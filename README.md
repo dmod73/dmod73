@@ -1,5 +1,5 @@
 <!-- Main Title -->
-# DeanDev Portfolio
+# DeanDev
 
 <!-- About Me -->
 👋 Hi! I'm Dean, a passionate full-stack developer with a strong focus on building efficient and user-friendly web applications. I believe in continuous learning and staying up-to-date with the latest technologies to deliver top-quality solutions. My goal is to create impactful software that solves real-world problems while also being enjoyable to use. Here are some of the technologies I work with:
