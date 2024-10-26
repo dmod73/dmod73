@@ -2,7 +2,7 @@
 # DeanDev
 
 <!-- About Me -->
-👋 Hi! I'm Dean, a passionate full-stack developer with a strong focus on building efficient and user-friendly web applications. I believe in continuous learning and staying up-to-date with the latest technologies to deliver top-quality solutions. My goal is to create impactful software that solves real-world problems while also being enjoyable to use. Here are some of the technologies I work with:
+👋 Hi! I'm Dean, a dedicated full-stack developer and a student in my learning journey. I'm focused on building efficient, user-friendly web applications while constantly exploring and mastering new technologies. My goal is to create impactful software that not only solves real-world problems but also enhances user experience. Here are some of the technologies I'm currently working with as I grow and learn:
 
 ## Technologies
 ### Frontend
