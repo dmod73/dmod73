@@ -40,15 +40,15 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/Currencyconvimg.png" alt="Currency Converter image" width="300" height="200">
+      <img src="assets/Screenshot 2024-10-28 115827.png" alt="Currency Converter image" width="300" height="200">
     </td>
     <td>
-      <h3>Currency Converter</h3>
-      <p>A currency converter that uses APIs to fetch exchange rates.</p>
+      <h3>invoice PDF generator</h3>
+      <p>An invoice PDF generator allowing dynamic row additions and deletions.</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, C#"></a> 
-      <img src="https://img.shields.io/badge/API-blue?style=for-the-badge" alt="API Badge"><br>
-      <a href="https://github.com/dmod73">View project</a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a> 
+      <br>
+      <a href="https://deandevcave.com">View project</a>
     </td>
   </tr>
   <tr>
